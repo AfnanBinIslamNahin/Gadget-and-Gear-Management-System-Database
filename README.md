@@ -35,13 +35,50 @@ reach every customer.
 
 # Table
 1)C.Id, C.Name, Phone No., Email, P.Id — Customer Details
+
 2)P.Id, P.Name, Model, Price, Category — Product Information
+
 3)C.Id, C.Name, Phone No., Email, O.Id — Customer Information
+
 4)O.Id,Date — Order Details
+
 5)Po.Id,P.Id,O.Id — Order Details 1
+
 6)P.Id,P.Name,Model,Price,Category,Od.Id — Product Details
+
 7)Od.Id, Quantity, Product — Product Details 1
+
 8)Ood.Id, O.Id, Od.Id — Delivery
+
+#### Query Question
+# CONDITIONAL STATEMENT :
+*Display the customer name from Customer Details where the name starting letter ‘A’ 
+and end letter ‘s’
+*Display customer name,model and price from product information where price is less than 
+30000
+*Display Order id and Order date from order details where order id is 230
+*Display Order_details_id ,quantity, product from product_details_1 where quantity is equal to 3
+*Display product id,product name,price ,category and model from product details where 
+order_details_id is between 43 to 47
+
+# SINGLE ROW FUNCTION:
+*Change the product name from product information in capital letter
+*Find the length of customer name from customer details
+*Show the concat between customer name and product id from customer details
+*Print the first 4 letter of product name from product details
+*Search the category from product information where product name is TV and find the location of ‘H’
+
+# MULTIPLE ROW FUNCTION :
+*Display the max and min price from product information
+*Display the sum price from product information
+*Display the avg price from product details
+
+# SUBQUERY:
+*Display the customer name,phone number from customer details where product id is greater than 
+Leo Messi product id
+*Display the product name,model from product details where price is greater than AirpodsMax price
+
+Download the pdf file to see the answer 
 
 ## Installation
 
