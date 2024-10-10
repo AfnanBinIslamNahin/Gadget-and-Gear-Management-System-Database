@@ -117,11 +117,7 @@ Table of Content           2
 
 ## Installation
 
-1. Install Oracle 10g or later.
-2. Clone the repository containing the SQL scripts for table creation and data insertion.
-3. Run the provided SQL scripts to set up the database schema.
-4. Configure database connection settings based on your local environment.
-
+1. Install Oracle 10g .
 
 ## Contact
 
