@@ -50,8 +50,8 @@ reach every customer.
 
 8)Ood.Id, O.Id, Od.Id — Delivery
 
-#### Query Question
-# CONDITIONAL STATEMENT :
+# Query Question
+#### CONDITIONAL STATEMENT :
 *Display the customer name from Customer Details where the name starting letter ‘A’ 
 and end letter ‘s’
 
