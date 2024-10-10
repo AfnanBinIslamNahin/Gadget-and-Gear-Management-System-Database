@@ -1,2 +1,58 @@
 # -Gadget-and-Gear-Management-System-Database
-Greetings, This is Afnan Nahin. We have created a database for our university project. However, it's not possible to upload the server here. Therefore, I am uploading the PDF of this project instead
+
+# Introduction
+
+Welcome to the Gadget and Gear Management System (GGMS) 
+database project. GGMS is crafted to address the contemporary 
+challenges in managing electronic devices within organizations. This 
+project aims to develop a centralized platform for efficient inventory 
+tracking, maintenance scheduling, and allocation of gadgets and gears. 
+By providing real-time visibility and optimization of resources, GGMS 
+intends to enhance productivity and reduce operational costs. Through 
+this project, we endeavor to design a user-friendly interface with robust 
+functionality, revolutionizing the management of gadgets and gears 
+within organizations.
+
+# Case Study / Scenario
+
+Gadget and Gear Management System (GGMS) is enhancing operational 
+efficiency with a design that allows customers to order a variety of tech products 
+based on their preferences. It’s an online-based company.
+The company offers a wide range of electronics, including Apple mobile phones 
+(iPhone 13 Pro to iPhone 15 Pro), Apple laptops (Macbook), headphones, shooting 
+drones, power banks, speakers, camaras, and smart watches. Additionally, TVs 
+from Sony are available. Customers can order products and must provide their 
+name, phone number, and email. 
+This order details the product name, model, quantity, price, and order date. Orders 
+are managed centrally, streamlining the purchasing process for efficiency and 
+customer satisfaction. This company sells products at lower prices than others. So 
+the sales of every product from this company have increased. Struggling to handle 
+customers. Many customers buy more than one product due to lower prices. Due to 
+this, there are many customers who are not able to buy any products.
+For this reason, the company made a policy which is each customer can purchase 
+any one product. These policy are made so that the products of this company can 
+reach every customer.
+
+# Table
+1)C.Id, C.Name, Phone No., Email, P.Id — Customer Details
+2)P.Id, P.Name, Model, Price, Category — Product Information
+3)C.Id, C.Name, Phone No., Email, O.Id — Customer Information
+4)O.Id,Date — Order Details
+5)Po.Id,P.Id,O.Id — Order Details 1
+6)P.Id,P.Name,Model,Price,Category,Od.Id — Product Details
+7)Od.Id, Quantity, Product — Product Details 1
+8)Ood.Id, O.Id, Od.Id — Delivery
+
+## Installation
+
+1. Install Oracle 10g or later.
+2. Clone the repository containing the SQL scripts for table creation and data insertion.
+3. Run the provided SQL scripts to set up the database schema.
+4. Configure database connection settings based on your local environment.
+
+
+## Contact
+
+For more information, reach out to:
+
+- **Email:** [nahin.islam.bd4@gmail.com](mailto:nahin.islam.bd4@gmail.com)
