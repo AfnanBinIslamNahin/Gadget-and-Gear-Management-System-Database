@@ -68,6 +68,7 @@ and end letter ‘s’
 order_details_id is between 43 to 47
 ```
 ### SINGLE ROW FUNCTION:
+```bash
 *Change the product name from product information in capital letter
 
 *Find the length of customer name from customer details
@@ -77,20 +78,22 @@ order_details_id is between 43 to 47
 *Print the first 4 letter of product name from product details
 
 *Search the category from product information where product name is TV and find the location of ‘H’
-
+```
 ### MULTIPLE ROW FUNCTION :
+```bash
 *Display the max and min price from product information
 
 *Display the sum price from product information
 
 *Display the avg price from product details
-
+```
 ### SUBQUERY:
+```bash
 *Display the customer name,phone number from customer details where product id is greater than 
 Leo Messi product id
 
 *Display the product name,model from product details where price is greater than AirpodsMax price
-
+```
 #### Download the pdf file to see the answer 
 
 ## Installation
