@@ -50,8 +50,9 @@ reach every customer.
 
 8)Ood.Id, O.Id, Od.Id — Delivery
 
+
 # Query Question
-#### CONDITIONAL STATEMENT :
+### CONDITIONAL STATEMENT :
 *Display the customer name from Customer Details where the name starting letter ‘A’ 
 and end letter ‘s’
 
@@ -65,7 +66,7 @@ and end letter ‘s’
 *Display product id,product name,price ,category and model from product details where 
 order_details_id is between 43 to 47
 
-# SINGLE ROW FUNCTION:
+### SINGLE ROW FUNCTION:
 *Change the product name from product information in capital letter
 
 *Find the length of customer name from customer details
@@ -76,14 +77,14 @@ order_details_id is between 43 to 47
 
 *Search the category from product information where product name is TV and find the location of ‘H’
 
-# MULTIPLE ROW FUNCTION :
+### MULTIPLE ROW FUNCTION :
 *Display the max and min price from product information
 
 *Display the sum price from product information
 
 *Display the avg price from product details
 
-# SUBQUERY:
+### SUBQUERY:
 *Display the customer name,phone number from customer details where product id is greater than 
 Leo Messi product id
 
