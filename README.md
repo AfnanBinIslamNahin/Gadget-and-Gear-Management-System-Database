@@ -112,7 +112,7 @@ Table of Content           2
 9. Relational Algebra      28
 10. Conclusion             29 
 ```
-##  Please Download the pdf file to see all of this. 
+###  Please Download the pdf file to see all of this. 
 
 
 ## Installation
