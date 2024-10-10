@@ -94,7 +94,26 @@ Leo Messi product id
 
 *Display the product name,model from product details where price is greater than AirpodsMax price
 ```
-#### Download the pdf file to see the answer 
+#### Download the pdf file to see the answer. 
+
+# TABLE OF CONTENTS 
+```bash
+TOPICS                 Page no.
+Title Page                 1
+Table of Content           2
+1. Introduction            3
+2. Case Study              4
+3. ER Diagram              5
+4. Normalization          6-8
+5. Finalization            9
+6. Table Creation        10-13
+7. Data Insertion        14-17
+8. Query Test            18-27
+9. Relational Algebra      28
+10. Conclusion             29 
+```
+##  Please Download the pdf file to see all of this. 
+
 
 ## Installation
 
