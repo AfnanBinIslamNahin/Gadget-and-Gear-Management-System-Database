@@ -53,6 +53,7 @@ reach every customer.
 
 # Query Question
 ### CONDITIONAL STATEMENT :
+```bash
 *Display the customer name from Customer Details where the name starting letter ‘A’ 
 and end letter ‘s’
 
@@ -65,7 +66,7 @@ and end letter ‘s’
 
 *Display product id,product name,price ,category and model from product details where 
 order_details_id is between 43 to 47
-
+```
 ### SINGLE ROW FUNCTION:
 *Change the product name from product information in capital letter
 
@@ -90,7 +91,7 @@ Leo Messi product id
 
 *Display the product name,model from product details where price is greater than AirpodsMax price
 
-Download the pdf file to see the answer 
+#### Download the pdf file to see the answer 
 
 ## Installation
 
